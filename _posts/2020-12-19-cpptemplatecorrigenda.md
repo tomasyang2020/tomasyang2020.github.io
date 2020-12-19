@@ -17,7 +17,7 @@ P26:<br>
 ##### 第5章 技巧性基础知识 #####
 ***5.3 成员模板***、***5.4 模板的模板参数***
 P43、P45、P49:<br>
-> ```cpp
+> ``` c++
 if ((void*) this == (void*)& op2) {　 //赋值给自身吗 
     return *this; 
 }
@@ -28,23 +28,23 @@ if ((void*) this == (void*)& op2) {　 //赋值给自身吗
 ##### 第8章 深入模板基础 #####
 ***8.3.3 非类型实参***
 P105、P07:<br>
-> ```cpp
+> ``` c++
 Public:
 ```
 
 修正为：<br>
-```cpp
+``` c++
 public:
 ```
 ##### 第9章 模板中的名称 #####
 ***9.2.3 插入式类名称***
 P122:<br>
-> ```cpp
+> ``` c++
  C<void> b;
 ```
 
 修改为：<br>
-```cpp
+``` c++
 C<void> *b;
 ```
 &emsp;&emsp;原因：类不能递归定义，因为编译器在为具体的对象分配大小时必须知道其大小。<br>
@@ -63,12 +63,12 @@ P147：对第二阶段查找的描述错误<br>
 ##### 第11章 模板实参演绎 #####
 ***11.3 特殊的演绎情况***
 P168代码：<br>
-> ```cpp
+> ``` c++
  template<typename T, int N> operator T[N]&();
 ```
 
 应该为：<br>
-> ```cpp
+> ``` c++
  template<typename T, int N> operator T&();
 ```
 
@@ -81,7 +81,7 @@ P168代码错误引起的描述错误：<br>
 ##### 第18章 表达式模板 #####
 ***18.2.5 表达式模板赋值***
 P330:<br>
-> ```cpp
+> ``` c++
 template< typename T, typename R1, typename R2>
 Array< T, A_ Subscript< T, R1, R2> > 
 Array< T, R1>:: operator[] (Array< T, R2> const & b) { 
@@ -91,7 +91,7 @@ Array< T, R1>:: operator[] (Array< T, R2> const & b) {
 ```
 
 改进，从通用性的角度考虑，考虑隐式转换存在，修改如下:
-```cpp
+``` c++
 template<typename T,typename R>
 tempate<typename T1,template R1> 
 inline Array<T,A_Subscript<T,R,R1> > 
@@ -104,12 +104,12 @@ Array<T,R> :: operator[](Array<T1,R1> const& b）{
 ##### 第20章 智能指针 #####
 ***20.2.8 隐式转型***
 P380:<br>
-> ```cpp
+> ``` c++
 class CountingPtr; friend
 ```
 
 修改为：<br>
-```cpp
+``` c++
 friend class CountingPtr;
 ```
 
