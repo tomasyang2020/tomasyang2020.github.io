@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 0xbdx0
+name: 吃枣药丸
 
 # Short bio or description (displayed in the header)
-description: Coder、WhiteHat
+description: 资资不卷
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://cdn.img.wenhairu.com/images/2020/04/24/NvlfK.png
@@ -26,11 +26,11 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: SjryJailCat
+  twitter: yangxggg
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
+  zhihu: ha-ha-18-79-57
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account

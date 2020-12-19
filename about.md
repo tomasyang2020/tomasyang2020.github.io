@@ -4,11 +4,12 @@ title: 关于
 permalink: /about/
 ---
 
-Coder、WhiteHat
+菜鸡、不喜欢加班
 
 ### 更多信息
 
-(￣▽￣)"
+行业：农林牧渔<br>
+
 
 ### 联系我
 
