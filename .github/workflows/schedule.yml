@@ -24,3 +24,13 @@ jobs:
     - name: Run Scraper
       run: |
         python scraper.py
+        
+    - name: push to origin master
+      run: |
+        echo start push
+        git config --global user.name "tomasyang2020"
+        git config --global user.email "contact@msfconsole.cn"
+        
+        git add -A
+        git commit -m $(date '+%Y-%m-%d')
+        git push
