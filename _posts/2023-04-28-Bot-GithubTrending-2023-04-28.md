@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Bot]Github 趋势2023-04-28
+title: \[Bot\]Github 趋势2023-04-28
 ---
 
 * [xtekky / gpt4free](https://github.com/xtekky/gpt4free):gpt4free
