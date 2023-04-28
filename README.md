@@ -1,1 +1,2 @@
 [![Daily Github-Trending](https://github.com/tomasyang2020/tomasyang2020.github.io/actions/workflows/schedule.yml/badge.svg)](https://github.com/tomasyang2020/tomasyang2020.github.io/actions/workflows/schedule.yml)
+[![pages-build-deployment](https://github.com/tomasyang2020/tomasyang2020.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tomasyang2020/tomasyang2020.github.io/actions/workflows/pages/pages-build-deployment)
