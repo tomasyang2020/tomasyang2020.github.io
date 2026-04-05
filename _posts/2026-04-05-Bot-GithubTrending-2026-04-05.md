@@ -1,0 +1,13 @@
+---
+layout: post
+title: 【Bot】Github 趋势2026-04-05
+---
+
+* [Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm):MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
+* [onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx):Open Source AI Platform - AI Chat with advanced features that works with every LLM
+* [Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex):OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+* [siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen):Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+* [telegramdesktop / tdesktop](https://github.com/telegramdesktop/tdesktop):Telegram Desktop messaging app
+* [block / goose](https://github.com/block/goose):an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+* [microsoft / agent-framework](https://github.com/microsoft/agent-framework):A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+* [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock):Hunt down social media accounts by username across social networks
