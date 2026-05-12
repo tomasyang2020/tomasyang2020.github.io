@@ -1,0 +1,18 @@
+---
+layout: post
+title: 【Bot】Github 趋势2026-05-12
+---
+
+* [bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop):The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+* [CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser):Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+* [yikart / AiToEarn](https://github.com/yikart/AiToEarn):Let's use AI to Earn!
+* [playcanvas / supersplat](https://github.com/playcanvas/supersplat):3D Gaussian Splat Editor
+* [datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe):💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+* [decolua / 9router](https://github.com/decolua/9router):Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+* [tinyhumansai / openhuman](https://github.com/tinyhumansai/openhuman):Your Personal AI super intelligence. Private, Simple and extremely powerful.
+* [millionco / react-doctor](https://github.com/millionco/react-doctor):Your agent writes bad React. This catches it
+* [Lordog / dive-into-llms](https://github.com/Lordog/dive-into-llms):《动手学大模型Dive into LLMs》系列编程实践教程
+* [AUTOMATIC1111 / stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui):Stable Diffusion web UI
+* [rasbt / LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch):Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+* [NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent):The agent that grows with you
+* [rohitg00 / agentmemory](https://github.com/rohitg00/agentmemory):#1 Persistent memory for AI coding agents based on real-world benchmarks
