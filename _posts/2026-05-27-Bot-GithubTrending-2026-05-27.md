@@ -1,0 +1,19 @@
+---
+layout: post
+title: 【Bot】Github 趋势2026-05-27
+---
+
+* [Lum1104 / Understand-Anything](https://github.com/Lum1104/Understand-Anything):Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+* [affaan-m / ECC](https://github.com/affaan-m/ECC):The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* [rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch):Learn it. Build it. Ship it for others.
+* [anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins):Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+* [mukul975 / Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills):754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+* [hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop):A skill file for removing AI tells from prose
+* [Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill):Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+* [DigitalPlatDev / FreeDomain](https://github.com/DigitalPlatDev/FreeDomain):DigitalPlat FreeDomain: Free Domain For Everyone
+* [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin):The Free Software Media System - Server Backend & API
+* [Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps):Curated list of the best free apps for PC and mobile
+* [twentyhq / twenty](https://github.com/twentyhq/twenty):The open alternative to Salesforce, designed for AI.
+* [Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock):OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+* [thedotmack / claude-mem](https://github.com/thedotmack/claude-mem):Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+* [st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver):A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
